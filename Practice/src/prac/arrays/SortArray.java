@@ -1,4 +1,4 @@
-package girmiti.arrays;
+package prac.arrays;
 
 public class SortArray {
 	public static void main(String[] args) {

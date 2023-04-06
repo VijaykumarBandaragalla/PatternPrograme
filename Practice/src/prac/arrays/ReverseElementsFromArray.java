@@ -1,4 +1,4 @@
-package girmiti.arrays;
+package prac.arrays;
 
 public class ReverseElementsFromArray {
 	public static void main(String[] args) {

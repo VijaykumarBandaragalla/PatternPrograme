@@ -1,4 +1,4 @@
-package girmiti.arrays;
+package prac.arrays;
 
 import java.util.Scanner;
 
